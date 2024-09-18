@@ -1,1 +1,1 @@
-As the general manager for the Sydney area at Airbnb, you want to know more about the different listings of houses and rooms your team has onboarded. You have access to information regarding the calendar, listings, reviews, and neighbourhoods. Each of these has its own separate table.
+
